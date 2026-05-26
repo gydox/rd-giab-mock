@@ -126,7 +126,10 @@
                 "validate_params":                 { "type": ["boolean", "null"] },
                 "monochrome_logs":                 { "type": ["boolean", "null"] },
                 "help":                            { "type": ["boolean", "null"] },
-                "version":                         { "type": ["boolean", "null"] }
+                "version":                         { "type": ["boolean", "null"] },
+                "max_cpus":                        { "type": ["integer", "null"] },
+                "max_memory":                      { "type": ["string", "null"] },
+                "max_time":                        { "type": ["string", "null"] }
             }
         }
     },
