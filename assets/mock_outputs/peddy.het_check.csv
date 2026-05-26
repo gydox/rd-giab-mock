@@ -1,0 +1,2 @@
+sample_id,sites,het_count,het_ratio,depth_outlier,p_out,call_rate,mean_depth,idr_baf,ancestry-prediction,PC1,PC2,PC3,ancestry-prob
+hugelymodelbat,38234,9132,0.2388,0.012,0.91,0.987,33.4,0.45,EUR,-0.012,0.034,0.011,0.92

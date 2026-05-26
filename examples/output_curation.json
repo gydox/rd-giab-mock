@@ -1,0 +1,16 @@
+[
+    { "name": "mito_annotation",   "source": "*/mitochondria/*_mito_genome.tab.gz",      "format": "tab" },
+    { "name": "mito_vcf",          "source": "*/mitochondria/*_mito_merged.vcf.gz",      "format": "vcf" },
+    { "name": "mito_haplogroups",  "source": "*/mitochondria/*_haplogroups.tsv",         "format": "tsv" },
+    { "name": "snv_raw",           "source": "*/snv/*_snv.vcf.gz",                       "format": "vcf" },
+    { "name": "snv_rohann",        "source": "*/snv/*_rohann_vcfanno.vcf",               "format": "vcf" },
+    { "name": "snv_scored",        "source": "*/snv/*_snv_scored.vcf.gz",                "format": "vcf" },
+    { "name": "snv_ranked",        "source": "*/snv/*_snv_ranked.vcf.gz",                "format": "vcf" },
+    { "name": "sv_raw",            "source": "*/sv/*_sv.vcf.gz",                         "format": "vcf" },
+    { "name": "sv_ranked",         "source": "*/sv/*_sv_ranked.vcf.gz",                  "format": "vcf" },
+    { "name": "str_calls",         "source": "*/repeat_expansions/*_str.vcf.gz",         "format": "vcf" },
+    { "name": "peddy_ped",         "source": "*/peddy/*.peddy.ped",                      "format": "tsv" },
+    { "name": "peddy_sex_check",   "source": "*/peddy/*.sex_check.csv",                  "format": "csv" },
+    { "name": "peddy_het_check",   "source": "*/peddy/*.het_check.csv",                  "format": "csv" },
+    { "name": "multiqc_stats",     "source": "multiqc/multiqc_data/multiqc_general_stats.txt", "format": "tsv" }
+]

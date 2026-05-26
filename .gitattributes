@@ -1,4 +1,5 @@
+* text=auto eol=lf
 *.config linguist-language=nextflow
-*.nf.test linguist-language=nextflow
-modules/nf-core/** linguist-generated
-subworkflows/nf-core/** linguist-generated
+*.nf linguist-language=nextflow
+assets/mock_outputs/*.gz binary
+assets/mock_outputs/*.tbi binary

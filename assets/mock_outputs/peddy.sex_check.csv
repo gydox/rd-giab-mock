@@ -1,0 +1,2 @@
+error,hom_alt_count,hom_ref_count,het_count,het_ratio,predicted_sex,ped_sex,sample_id
+False,3211,4427,40,0.005211,male,male,hugelymodelbat
