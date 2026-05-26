@@ -1,0 +1,2 @@
+Sample	pct_mapped	mean_coverage	pct_dup	pct_q30
+hugelymodelbat	99.4	33.4	7.2	92.1
